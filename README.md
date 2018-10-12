@@ -1,6 +1,6 @@
 # 30天深度学习项目实战
 
-## Week 1 搭建环境，运行深度学习项目，学习python
+## Week 1 搭建环境，运行深度学习实战项目，学习python
 
 python教程
 计算机科学导论(https://cn.udacity.com/course/intro-to-computer-science--cs101)
@@ -15,3 +15,4 @@ python教程
 ## Week 4 深度学习实战项目-利用RNN与LSTM生成唐诗
 https://github.com/charlesXu86/tf_tang_poems/
 
+请加QQ群(200185707)一起学习
