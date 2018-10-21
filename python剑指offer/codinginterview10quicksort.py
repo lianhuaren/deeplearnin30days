@@ -38,8 +38,8 @@ def main():
 
 
     s = Solution()
-
-    print (s.quick_sort([49,38,65,97,76,13,27,49],0,7))
+    arr = [49,38,65,97,76,13,27,49]
+    print (s.quick_sort(arr,0,len(arr)-1))
 
 
 if __name__ == '__main__':
