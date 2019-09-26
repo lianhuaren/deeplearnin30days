@@ -6,7 +6,10 @@
 
 
 [Udacity's Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+
 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001)
+
 
 
